@@ -1,0 +1,362 @@
+开源库名称   总版本数    Cve信息
+Libpng  1616    54
+Freetype    108 80
+Zlib    72  
+sqlite  118 
+Libxml2 188 69
+openssl 315 204
+libtiff 48  178
+Curl    196 67
+libsndfile  5   
+Jbig2dec    18  
+openjpeg    18  62
+Libjpeg-turbo   49  
+ffmpeg  328 319个
+poppler 204 94
+cups    187 89
+Libming 14  66
+Openssh 142 81
+Libvirt 505 73
+libarchive  33  58
+Dovecot 210 49
+Libraw  60  39
+Libvncserver    17  37
+quagga  158 32
+file    82  
+Pillow  67  
+Dnsmasq 256 
+Bzip2   8   
+Cjson   42  
+Libevent    20  
+libexpat    44  
+unrar   126 
+botan   146 
+libvpx  22  
+Opencv  102 
+W3m 119 
+libssh  37  
+wavepack    31  
+Libav   116 
+Squid   250 
+Tinyxml2    3   
+Tinyxml 2   
+Tar 25  
+Binutils 45
+apr 1
+gcr 1
+uhd 1
+       开源库名称          总版本数    Cve信息
+                     babl   1
+                     dime   1
+                     gdm3   1
+                     jcal   1
+                     mmdb   1
+                     tdom   1
+                     upse   1
+                     volk   1
+                    gcc-7   1
+                    jcifs   1
+                    kvirc   1
+                    null    1
+                   alglib   1
+                   bullet   1
+                   evince   1
+                   girara   1
+                   injeqt   1
+                   jimtcl   1
+                   libltc   1
+                   libmsv   1
+                   libnes   1
+                   qoauth   1
+                   qtruby   1
+                   umview   1
+                  canlock   1
+                  emoslib   1
+                  emoslib   1
+                  gettext   1
+                  glib2.0   1
+                  jcharts   1
+                  libdlna   1
+                  libpfm4   1
+                  libzypp   1
+                  pangomm   1
+                  pnetcdf   1
+                 alsa-lib   1
+                 asterisk   1
+                 gupnp-av   1
+                 libiscsi   1
+                 libplist   1
+                 magics++   1
+                 nautilus   1
+                 openldap   1
+                 openscap   1
+                atlas-cpp   1
+                flatzebra   1
+                hal-flash   1
+                leptonlib   1
+                libpano13   1
+                libtuxcap   1
+                lxqt-l10n   1
+                python3.7   1
+               gdk-pixbuf   1
+               gdk-pixbuf   1
+               libexplain   1
+               liblogging   1
+              libmicrodns   1
+             kmediaplayer   1
+             libgit2-glib   1
+             libkf5kdcraw   1
+             libksysguard   1
+             libvsqlitepp   1
+            goocanvas-2.0   1
+            liblouisutdml   1
+           gnome-desktop3   1
+          accountsservice   1
+          goocanvasmm-2.0   1
+          sblim-cmpi-base   1
+         libflexdock-java   1
+         maliit-framework   1
+        libbpp-phyl-omics   1
+        openvas-libraries   1
+        overlay-scrollbar   1
+       globus-ftp-control   1
+       gst-rtsp-server1.0   1
+       qtstyleplugins-src   1
+      gst-plugins-good1.0   1
+      qt3d-opensource-src   1
+     globus-gsi-sysconfig   1
+    gobject-introspection   1
+   libnetfilter-conntrack   1
+ qtwebview-opensource-src   1
+                                  dar   1
+                                  ode   1
+                                 ccid   1
+                                 gpsd   1
+                                 neko   1
+                                 ucto   1
+                                 vala   1
+                                 wine   1
+                                adolc   1
+                                bluez   1
+                                fcitx   1
+                                folks   1
+                                frame   1
+                                genht   1
+                                libhx   1
+                                null    1
+                                ossim   1
+                               anjuta   1
+                               fox1.6   1
+                               gtkpod   1
+                               libvpx   1
+                               libxmu   1
+                              kompare   1
+                              krunner   1
+                              libebml   1
+                              libhdf4   1
+                              libkate   1
+                              libksba   1
+                              openafs   1
+                              purpose   1
+                              wavpack   1
+                             libnftnl   1
+                             libvmime   1
+                             usbredir   1
+                            boost1.63   1
+                            e2fsprogs   1
+                            libmspack   1
+                            libx86emu   1
+                            ocaml-ogg   1
+                           gutenprint   1
+                           kio-extras   1
+                           libgnomeui   1
+                           libjsoncpp   1
+                           netcdf-cxx   1
+                          openconnect   1
+                          texlive-bin   1
+                         globus-usage   1
+                         mir    1
+                         vlc    1
+                        libexttextcat   1
+                        libu2f-server   1
+                        qdox    1
+                        vala    1
+                        xapp    1
+                       acl  1
+                       derby    1
+                       gpm  1
+                       hivex    1
+                       ido  1
+                       jts  1
+                       kauth    1
+                       libvc    1
+                       mpich    1
+                       ntl  1
+                       qbs  1
+                       vlc  1
+                      attr  1
+                      ceph  1
+                      enca  1
+                      file  1
+                      freecell-solver   1
+                      ivykis    1
+                      juce  1
+                      libdrm    1
+                      libint    1
+                      libmaa    1
+                      libpsl    1
+                      mathic    1
+                      mlpack    1
+                      newt  1
+                      radcli    1
+                      x264  1
+                      yara  1
+                     akonadi    1
+                     batik  1
+                     fdk-aac    1
+                     ganglia    1
+                     ginac  1
+                     heimdal    1
+                     kconfig    1
+                     kiten  1
+                     libccp4    1
+                     libcddb    1
+                     libdsme    1
+                     libdv  1
+                     libkf5eventviews   1
+                     mecab  1
+                     movit  1
+                     mpfr4  1
+                     mpich  1
+                     peony  1
+                     pnetcdf    1
+                     samba  1
+                     solid  1
+                     varconf    1
+                    discount    1
+                    enet    1
+                    gtkmm2.4    1
+                    gwyddion    1
+                    hamlib  1
+                    kcalcore    1
+                    kcmutils    1
+                    libg3d  1
+                    libgsm  1
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
